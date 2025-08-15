@@ -16,7 +16,7 @@ export function Hero() {
       <div
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: `url('/luxury-neutral-living-room.png')`,
+          backgroundImage: `url('/minimalist-black-white-living-room.png')`,
         }}
       >
         <div className="absolute inset-0 bg-black/40" />
