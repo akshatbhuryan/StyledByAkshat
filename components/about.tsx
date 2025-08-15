@@ -9,18 +9,18 @@ export function About() {
             <h2 className="font-serif font-black text-4xl md:text-5xl text-foreground mb-6">About Akshat</h2>
             <div className="space-y-6 text-lg leading-relaxed text-muted-foreground">
               <p>
-                With over a decade of experience in interior and exterior design, I believe that every space tells a
-                story. My approach combines timeless elegance with contemporary functionality, creating environments
-                that are both beautiful and livable.
+                Akshat is an emerging interior designer who has recently embarked on an exciting career in the world of
+                spatial design. Armed with an Advanced Diploma in Interior Design, Akshat combines creativity with
+                technical expertise to bring concepts to life.
               </p>
               <p>
-                My design philosophy centers on understanding each client's unique lifestyle and translating their
-                vision into reality. I specialize in creating sophisticated spaces that reflect personal style while
-                maintaining the highest standards of quality and craftsmanship.
+                Skilled in industry-standard tools such as AutoCAD, 2D/3D design software, V-Ray, 3ds Max, SketchUp, and
+                Enscape, Akshat delivers visually compelling and functional spaces that reflect each client's unique
+                style.
               </p>
               <p>
-                From intimate residential projects to large-scale commercial developments, I bring the same level of
-                attention to detail and commitment to excellence to every project.
+                With a fresh perspective and a passion for innovation, Akshat is ready to transform ideas into stunning,
+                livable realities.
               </p>
             </div>
 
